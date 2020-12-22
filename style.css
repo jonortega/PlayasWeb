@@ -1,0 +1,19 @@
+html {
+  background-image: url(beach.jpg);
+  background-color: rgb(221, 237, 252);
+}
+
+h1 {
+  text-align: center;
+  color: rgb(255, 201, 130);
+  text-shadow: 0px 3px 10px black;
+}
+
+ol {
+    border-radius: 10px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  font-family: Arial;
+  column-count: 3;
+  background-color: rgba(187, 233, 245, 50%);
+}
